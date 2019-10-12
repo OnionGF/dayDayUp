@@ -19,3 +19,5 @@ let sum = arr.reduce((total, num)=>{
 console.log('sum',sum)
 
 ```
+
+123
